@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/" title="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/taghreedrabee" title="LinkedIn Profile">
       <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
       LinkedIn
     </a>
@@ -19,6 +19,13 @@
       GitHub
     </a>
   </code>
+  <code>
+  <a href="https://taghreedrabee.github.io/Portfolio.github.io" title="Portfolio Website">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
+    Portfolio
+  </a>
+</code>
+
 </h5>
 
 <br>
