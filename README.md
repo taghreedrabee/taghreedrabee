@@ -40,10 +40,10 @@ Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds cle
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🧠 Front-End
   <p align="center">
+    ## ⚙️ Tech Stack
+
+  ### 🧠 Front-End
   <code><img title="HTML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
   <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -51,8 +51,9 @@ Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds cle
   <code><img title="Angular" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
   </p>
 
-### 🔄 Back-End
+
   <p align="center">
+  ### 🔄 Back-End
   <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
   <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
   <code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
