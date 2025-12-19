@@ -43,25 +43,32 @@ Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds cle
 ## ⚙️ Tech Stack
 
 ### 🧠 Front-End
-<img src="https://skillicons.dev/icons?i=html" title="HTML" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=css" title="CSS" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=angular" title="Angular" height="40" style="margin:5px"/>
+  <p align="center">
+  <code><img title="HTML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+  <code><img title="Angular" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
+  </p>
 
 ### 🔄 Back-End
-<img src="https://skillicons.dev/icons?i=csharp" title="C#" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=dotnet" title=".NET" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=mysql" title="SQL Server" height="40" style="margin:5px"/>
+  <p align="center">
+  <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+  <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
+  <code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
+  </p>
 
 ---
 
 ### 🛠 Tools & Version Control
-<img src="https://skillicons.dev/icons?i=git" title="Git" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40" style="margin:5px"/>
-<img src="https://skillicons.dev/icons?i=figma" title="Figma" height="40" style="margin:5px"/>
+<p align="center">
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <code><img title="Postman" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"></code>
+  <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+  <code><img title="Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
+</p>
 ---
 
 ## 📊 GitHub Stats
