@@ -41,8 +41,8 @@ Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds cle
 ---
 
   <p align="center">
-  <h1>🛠 Tools & Version Control</h1>
-  <h3>🧠 Front-End</h3>
+  <h1>⚙️ Tech Stack</h1>
+  <h2>🧠 Front-End</h2>
   <code><img title="HTML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
   <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -52,7 +52,7 @@ Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds cle
 
 
   <p align="center">
-  <h3>🔄 Back-End</h3>
+  <h2>🔄 Back-End</h2>
   <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
   <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
   <code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
@@ -62,7 +62,7 @@ Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds cle
 
 
 <p align="center">
-  <h3>🛠 Tools & Version Control</h3>
+  <h2>🛠 Tools & Version Control</h2>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
   <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
