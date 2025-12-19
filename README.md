@@ -13,7 +13,7 @@
 ✨ Building clean, scalable, and user-friendly web applications ✨
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=for-the-badge&logo=web&logoColor=white)](https://taghreedrabee.github.io/Portfolio.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taghreedrabee)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taghreedrabee)
 [![Download My CV](https://img.shields.io/badge/-Resume-yellow?style=for-the-badge&logo=web&logoColor=white)](https://drive.google.com/file/d/1y0mS1kIS9shOHJR_HdaLiXVzv3HPnk7v/view?usp=drive_link)
 
@@ -87,9 +87,9 @@ Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds cle
 ---
 
 ## 📬 Contact Me
-- 💼 **LinkedIn:** https://www.linkedin.com/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/taghreedrabee
 - 🌐 **Portfolio:** https://taghreedrabee.github.io/Portfolio.github.io  
-- 📧 **Email:** *(Add your email here)*
+- 📧 **Email:** http://taghreedrabia6@gmail.com
 
 ---
 
