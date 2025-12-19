@@ -1,26 +1,26 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taghreedrabee.taghreedrabee">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" >
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Taghreed+Rabee;Full-Stack+Developer;&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/taghreedrabee" title="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/taghreedrabee" title="LinkedIn Profile" target="_blank">
       <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
       LinkedIn
     </a>
   </code>
   <code>
-    <a href="https://github.com/taghreedrabee" title="GitHub Profile">
+    <a href="https://github.com/taghreedrabee" title="GitHub Profile" target="_blank">
       <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
       GitHub
     </a>
   </code>
   <code>
-  <a href="https://taghreedrabee.github.io/Portfolio.github.io" title="Portfolio Website">
+  <a href="https://taghreedrabee.github.io/Portfolio.github.io" title="Portfolio Website" target="_blank">
     <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
     Portfolio
   </a>
