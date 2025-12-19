@@ -1,101 +1,96 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taghreedrabee.taghreedrabee">
+<!-- Flashy Animated GitHub Profile README -->
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg" >
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Taghreed+Rabee;Full-Stack+Developer;&center=true&size=30">
-  </a>
-</h1>
+<div align="center">
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/taghreedrabee" title="LinkedIn Profile" target="_blank">
-      <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-      LinkedIn
-    </a>
-  </code>
-  <code>
-    <a href="https://github.com/taghreedrabee" title="GitHub Profile" target="_blank">
-      <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-      GitHub
-    </a>
-  </code>
-  <code>
-  <a href="https://taghreedrabee.github.io/Portfolio.github.io" title="Portfolio Website" target="_blank">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
-    Portfolio
-  </a>
-</code>
-
-</h5>
-
-<br>
+#  **Taghreed Rabee** 🔥
 
 <p align="center">
-  Hi, I'm <b>Taghreed Rabee</b>, a Full-Stack Developer with a strong focus on <b>Angular Front-End development</b>.
-  <br><br>
-  🎓 Computer Science graduate from <b>Helwan University</b>
-  <br>
-  💻 Experienced in building user-friendly web applications and RESTful APIs
-  <br>
-  ⚙️ Back-end experience using <b>.NET, ASP.NET Core, and SQL Server</b>
-  <br>
-  🌱 Passionate about clean code, learning new technologies, and continuous improvement
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Taghreed+Rabee;Full-Stack+Developer;Angular+%26+.NET+Specialist" />
 </p>
 
-<hr>
+### 🚀 *Full-Stack Developer — Angular & .NET Specialist*
 
-<h2 align="center">🔥 Tech Stack 🔥</h2>
-<br>
+✨ Building clean, scalable, and user-friendly web applications ✨
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=for-the-badge&logo=web&logoColor=white)](https://taghreedrabee.github.io/Portfolio.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taghreedrabee)
+[![Download My CV](https://img.shields.io/badge/-Resume-yellow?style=for-the-badge&logo=web&logoColor=white)](./TaghreedRabee_Resume.pdf)
 
 <p align="center">
-  <code><img title="HTML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  <code><img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-  <code><img title="Angular" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
-  <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
-  <code><img title=".NET Core" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
-  <code><img title="SQL Server" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
-  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Crafting+Clean+Web+Experiences" />
 </p>
 
-<hr>
+![Profile Views](https://komarev.com/ghpvc/?username=taghreedrabee&style=flat-square&color=blue)
 
-<h2 align="center">🛠 Tools & Technologies 🛠</h2>
-<br>
+</div>
 
-<p align="center">
-  <code><img title="Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-  <code><img title="Postman" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"></code>
-  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-  <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-</p>
+---
 
+## 🌟 About Me
 
-<hr>
+Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds clean, scalable, and user-friendly web applications using  
+**Angular, .NET, TypeScript, SQL Server**, and more.
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
+- 🔭 Currently building: **Portfolio & Angular Projects**
+- 🎯 Goal: Master full-stack development and modern web architectures  
+- ⚡ Passionate about clean code, UI/UX, and problem-solving  
+- 🎨 Love turning ideas into functional web applications
+- 🌍 Open to collaboration & learning
 
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=taghreedrabee&show_icons=true&theme=react&hide_border=true"/>
-  <img width="390" src="https://streak-stats.demolab.com/?user=taghreedrabee&theme=react&hide_border=true"/>
-</p>
+---
 
-<br>
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taghreedrabee&layout=compact&theme=react&hide_border=true"/>
-</p>
+### 🧠 Front-End
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+![TS](https://skillicons.dev/icons?i=ts)
+![Angular](https://skillicons.dev/icons?i=angular)
 
-<hr>
+### 🔄 Back-End
+![C#](https://skillicons.dev/icons?i=csharp)
+![Dotnet](https://skillicons.dev/icons?i=dotnet)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
-<h2 align="center">👩‍💻 Featured Projects 👩‍💻</h2>
-<br>
+---
 
-<p align="center">
-  ⭐ Check my pinned repositories below to explore my work in <b>Angular</b> and <b>.NET</b>.
-</p>
+### 🛠 Tools & Version Control
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=taghreedrabee&show_icons=true&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taghreedrabee&layout=compact&theme=radical" width="48%">
+</div>
+
+---
+
+## 🎯 2025 Roadmap
+- Master Angular & .NET advanced patterns
+- Build real-world full-stack web applications  
+- Improve problem-solving & system design skills  
+- Contribute to open-source projects
+
+---
+
+## 📬 Contact Me
+- 💼 **LinkedIn:** https://www.linkedin.com/  
+- 🌐 **Portfolio:** https://taghreedrabee.github.io/Portfolio.github.io  
+- 📧 **Email:** *(Add your email here)*
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting — Keep Building & Keep Shining! 🚀💫
+
+</div>
