@@ -43,26 +43,25 @@ Hi! I'm **Taghreed Rabee**, a passionate **Full-Stack Developer** who builds cle
 ## ⚙️ Tech Stack
 
 ### 🧠 Front-End
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![TS](https://skillicons.dev/icons?i=ts)
-![Angular](https://skillicons.dev/icons?i=angular)
+<img src="https://skillicons.dev/icons?i=html" title="HTML" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=angular" title="Angular" height="40" style="margin:5px"/>
 
 ### 🔄 Back-End
-![C#](https://skillicons.dev/icons?i=csharp)
-![Dotnet](https://skillicons.dev/icons?i=dotnet)
-![SQL](https://skillicons.dev/icons?i=mysql)
+<img src="https://skillicons.dev/icons?i=csharp" title="C#" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=dotnet" title=".NET" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="SQL Server" height="40" style="margin:5px"/>
 
 ---
 
 ### 🛠 Tools & Version Control
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Figma](https://skillicons.dev/icons?i=figma)
-
+<img src="https://skillicons.dev/icons?i=git" title="Git" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=figma" title="Figma" height="40" style="margin:5px"/>
 ---
 
 ## 📊 GitHub Stats
